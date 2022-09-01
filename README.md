@@ -8,3 +8,7 @@
 Hieu1080/Hieu1080 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+cd DDos-Attack
+chmod +x *
+python3 run.py
